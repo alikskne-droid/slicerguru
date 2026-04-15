@@ -1,3 +1,10 @@
+
+
+![Slicer Guru Logo](logo.png)
+
+
+
+
 Bazuko v2 - ML G-Code Optimization
 
 "The next generation of 3D printing optimization. Using data-driven models to push the limits of speed and precision in G-code execution."
