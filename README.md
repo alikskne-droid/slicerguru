@@ -42,3 +42,7 @@ Bazuko v2 is a high-performance G-code post-processor that leverages Machine Lea
     Inference: The trained ML model predicts the ideal parameters for each segment.
 
     Generation: Outputs an optimized G-code ready for high-speed machines like Bambu Lab A1.
+
+![Slicer Guru GUI](GUI.png)
+
+
